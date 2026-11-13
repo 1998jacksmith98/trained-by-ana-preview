@@ -1,0 +1,75 @@
+photos/shot-list.txt — Trained by Ana / Ana Norman
+Gathered 13 Nov 2026 (Europe/London). Sources are first-party and public only (no Instagram login).
+
+IMPORTANT: Instagram @trainedbyana could not be opened anonymously on 13 Nov 2026 (official profile redirected to a login wall with is_from_rle; embeds said the page isn’t available; public viewers returned empty/blocked shells). This pack therefore has almost no feed stills. Do not treat TikTok video covers (typically 540×960) as original uncropped photographs.
+
+TEXT OVERLAY KEY
+- NO typography overlay — clean photograph
+- HAS typography overlay — burned-in captions / graphics (flagged below)
+- The official avatar is a square crop of a selfie; it has no typography overlay, but it is a tight sports-bra selfie and may be too revealing for a business-site hero.
+
+================================================================
+photos/
+================================================================
+
+lifestyle-gym-mirror-flex-with-partner-tiktok.jpg
+  Suggested use: lifestyle / gym / social proof (Ana with a training partner). Not a formal “about” portrait.
+  Source: TikTok photo-mode post https://www.tiktok.com/@trainedbyana/video/7660803444264946966
+          Posted 10 Jul 2026, 07:50 Europe/London. Caption (verbatim): “#fyp #housemusic #gym  💓💓💓”
+          TikTok’s public object listed a single still at 906×1250 (web may hide further slides behind “view in the app”).
+  Dimensions: 906 × 1250 px, JPEG, portrait (original as delivered by TikTok photo mode; not a square crop).
+  What it shows: Ana (blonde, light-pink shorts and white sports bra) taking a mirror selfie in a dark gym with cyan LED wall lights; a training partner (blonde, black vest and black shorts) flexes beside her. Dumbbell and water bottle on the floor. No faces of minors.
+  Text overlay: NO typography overlay.
+  Notes: This is a TikTok still, not an Instagram post. Athletic gym wear (midriff visible). The second woman also appears in the two training videos in videos/.
+
+================================================================
+brand/  (not for use as a designed logo)
+================================================================
+
+linktree-profile-avatar.jpg
+  Suggested use: official profile picture only, if Jack/Ana are happy with it. Not a logo. Probably unsuitable as a site hero without her say-so.
+  Source: Official Linktree avatar on https://linktr.ee/trainedbyana
+          (same image as the TikTok profile avatar, which TikTok serves as a 1080×1080 centre crop).
+  Dimensions: 2000 × 2000 px, JPEG, square (Linktree’s crop of a selfie — not an uncropped original photograph).
+  What it shows: Close-up selfie of Ana, blonde hair, nose ring, black “AYBL” sports bra, sunburst tattoo on her right upper arm, indoor background.
+  Text overlay: NO typography overlay. The word “AYBL” is garment branding (another company), upside-down in the selfie, not a graphic she designed.
+  Notes: Tight sports-bra crop with a lot of cleavage — flag as possibly too revealing for a business website. “AYBL” is not her logo. No designed wordmark was found.
+
+================================================================
+videos/  (included here so the typography flags sit with the media list)
+================================================================
+
+training-session.mp4
+  Suggested use: site training-session / coaching reel.
+  Source: TikTok https://www.tiktok.com/@trainedbyana/video/7663247108916432150
+          Posted 16 Jul 2026, 21:52 Europe/London. Caption (verbatim): “She will thank me one day x #gym #fyp #fitnesstok”
+          NOT an Instagram Reel — Instagram was not readable anonymously.
+  Duration: 46.10 s. Resolution: 576 × 1024. Codec: H.264 + AAC (44.1 kHz stereo), official TikTok mp4, not re-encoded.
+          A higher-bitrate official H.264 sibling (format h264_540p_939987, ~5.4 MB) was listed but a later fetch returned 403 / IP block; this file is the official h264_540p_505060 encode already downloaded (2,910,411 bytes).
+  What it shows: A client / training partner (brown hair, light-blue shorts and white sports bra) working a machine; Ana (black outfit) coaches, spots and films. Gym floor with green neon lettering (reads along the lines of “FITNESS IS SERIOUS”).
+  Text overlay: HAS typography overlay — burned-in speech captions at several points, including “WHAT?”, “OH, MY GOD.”, “OKAY.”, “STRONG, STRONG. THREE.”, “BREATHE OUT.”, “LAST ONE. LAST”.
+  Audio: TikTok lists the sound as “original sound - Ibiza Records” (music). Spoken coaching cues are also present (reflected in the captions).
+  Client session: YES — Ana is visibly coaching another woman (captioned “She will thank me one day x”).
+
+training-session-runner-up.mp4
+  Suggested use: runner-up only. Included because mid-sections have less typography than the primary reel, and it shows a shared leg-day session.
+  Source: TikTok https://www.tiktok.com/@trainedbyana/video/7660644849049242902
+          Posted 9 Jul 2026, 21:34 Europe/London. Caption (verbatim): “Little video from some of our exercises on today’s leg day 🍑🏋️‍♂️  #gym #fitnes #snapfitness #fyp”
+          NOT an Instagram Reel.
+  Duration: 59.57 s. Resolution: 576 × 1024. Codec: H.264 + AAC (44.1 kHz stereo), official higher-bitrate TikTok H.264 encode (h264_540p_576721, 4,294,199 bytes), not re-encoded.
+  What it shows: Ana (pink set) and the same training partner (black outfit) doing a leg-day session — hip-thrust machine, goblet squats, walking lunges — in a dark studio/gym room with cyan and orange LED strips (same room as the still above). #snapfitness is in the caption.
+  Text overlay: HAS typography overlay, but not on every shot. Burned-in captions include “TODAY WE'RE TRAINING”, “ENJOY THAT.”, and “MY LEG! TALK” (wording as shown on screen). Several squat/lunge stretches have no typography.
+  Audio: TikTok lists “original sound - trainedbyana”.
+  Client session: Mixed / not certain. They train together (“our exercises”); Ana is not as clearly in a “coach standing over a client” role as in the primary reel. The other woman may be a client, a friend, or both.
+
+Other TikTok videos inspected but not saved (for Jack’s awareness; many have typography; all are TikTok, not Instagram):
+  7698773477792238880 (20 Oct 2026, 61s) — “Monday morning pilates at revive&reform” typography; reformer-pilates room; hashtags include #PersonalTrainer #OnlineCoaching. Not used as the training reel (class-style footage + overlay; studio not independently confirmed).
+  7691993752356916513 (2 Oct 2026, 16s) — heavy typography “HIP THRUSTS AREN’T JUST FOR GLUTE GROWTH”; caption invites DMs for online coaching.
+  7691993406431661345 (2 Oct 2026, 17s) — typography “POV the gym is empty so we can try the weird exercise we found on ig”.
+  7677551378251697430 (24 Aug 2026, 10s) — countryside path + dog; typography about a Dfyne set.
+  7677550186020736279 (24 Aug 2026, 25s, landscape 1280×720 native) — typography “POV you’re eating a protein bar”.
+  7676406411777101078 (21 Aug 2026, 9s) — typography meme quotes about needing clients / content.
+  7665073429380451606 (21 Jul 2026, 8s) — Ana at a red-and-white gym reception desk (Snap Fitness-style branding). Short lifestyle clip, not a training session; only a 540×960 cover was kept in working files, not this pack.
+  7664022918183095574 (19 Jul 2026, 64s) — two people on a cable stack; typography including “WE ARE DOING” / “HANDS I BEAT YOU”.
+  7661988336499690774 (13 Jul 2026, 57s) — typography “IF YOU’RE NOT” / “TRAINING…” throughout.
+  7660819931902004502 (10 Jul 2026, 68s) — own/partner gym training; typography including “RIP OFF WALK”.

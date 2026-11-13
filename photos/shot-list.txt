@@ -1,75 +1,189 @@
 photos/shot-list.txt — Trained by Ana / Ana Norman
-Gathered 13 Nov 2026 (Europe/London). Sources are first-party and public only (no Instagram login).
-
-IMPORTANT: Instagram @trainedbyana could not be opened anonymously on 13 Nov 2026 (official profile redirected to a login wall with is_from_rle; embeds said the page isn’t available; public viewers returned empty/blocked shells). This pack therefore has almost no feed stills. Do not treat TikTok video covers (typically 540×960) as original uncropped photographs.
+Updated 13 Nov 2026 (Europe/London). Instagram stills were downloaded anonymously per shortcode (instagram.com/p/<code>/media/?size=l) after the profile itself stayed login-walled. Aspects are as Instagram delivered them (typically 1080 on the short edge). Square files are not used unless the original was square (none of the selected stills are square).
 
 TEXT OVERLAY KEY
-- NO typography overlay — clean photograph
-- HAS typography overlay — burned-in captions / graphics (flagged below)
-- The official avatar is a square crop of a selfie; it has no typography overlay, but it is a tight sports-bra selfie and may be too revealing for a business-site hero.
+- NO typography overlay — clean photograph (every file in photos/ is in this group)
+- HAS typography overlay — burned-in captions or graphics (none of the selected stills; the training reel and several unused posts are flagged in BRIEF)
+
+Identified child photos (DfSWTjRiNQx), bikini/holiday shots (Daiu5TVqhQE and typography covers), and typography/quote carousels were inspected and not copied into photos/.
 
 ================================================================
-photos/
+photos/  — 18 files, all NO typography overlay
 ================================================================
 
-lifestyle-gym-mirror-flex-with-partner-tiktok.jpg
-  Suggested use: lifestyle / gym / social proof (Ana with a training partner). Not a formal “about” portrait.
-  Source: TikTok photo-mode post https://www.tiktok.com/@trainedbyana/video/7660803444264946966
-          Posted 10 Jul 2026, 07:50 Europe/London. Caption (verbatim): “#fyp #housemusic #gym  💓💓💓”
-          TikTok’s public object listed a single still at 906×1250 (web may hide further slides behind “view in the app”).
-  Dimensions: 906 × 1250 px, JPEG, portrait (original as delivered by TikTok photo mode; not a square crop).
-  What it shows: Ana (blonde, light-pink shorts and white sports bra) taking a mirror selfie in a dark gym with cyan LED wall lights; a training partner (blonde, black vest and black shorts) flexes beside her. Dumbbell and water bottle on the floor. No faces of minors.
+hero-lakeside-portrait-Dd_DObQiK9z.jpg
+  Suggested use: hero / about-me portrait
+  Source: https://www.instagram.com/p/Dd_DObQiK9z/ (carousel slide 1 / parent), posted 2 Oct 2026
+          Caption starts: “life recently 🤍✨” (Wales, walking, balance).
+  Dimensions: 1080 × 1440 px, JPEG, portrait 3:4
+  What it shows: Ana in a black jacket, standing by a lake at sunset, hills behind. No typography.
   Text overlay: NO typography overlay.
-  Notes: This is a TikTok still, not an Instagram post. Athletic gym wear (midriff visible). The second woman also appears in the two training videos in videos/.
+
+about-me-close-up-selfie-Da_SbrmCBka.jpg
+  Suggested use: about-me / portrait
+  Source: https://www.instagram.com/p/Da_S2fACIPI/ child Da_SbrmCBka, posted 19 Jul 2026 (“Recently ✨”)
+  Dimensions: 720 × 960 px, JPEG, portrait 3:4 (as delivered for this slide)
+  What it shows: Close-up selfie, white top, gold jewellery, a black dog in the background.
+  Text overlay: NO typography overlay.
+
+about-me-mirror-grey-set-DegnQL8I6c5.jpg
+  Suggested use: about-me / training portrait
+  Source: https://www.instagram.com/p/DegnRtziKjv/ child DegnQL8I6c5, posted 15 Oct 2026 (“Winter arc officially loading”)
+  Dimensions: 1080 × 1440 px, JPEG, portrait 3:4
+  What it shows: Full-length mirror selfie, white crop top and grey seamless leggings, plain wall. Athletic wear, midriff visible, not a bikini shot.
+  Text overlay: NO typography overlay.
+
+about-me-locker-mirror-Dd_DFvvo7cy.jpg
+  Suggested use: about-me / gym / training
+  Source: https://www.instagram.com/p/Dd_DObQiK9z/ child Dd_DFvvo7cy, posted 2 Oct 2026
+  Dimensions: 1080 × 1440 px, JPEG, portrait 3:4
+  What it shows: Full-length locker-room mirror selfie, navy sports bra and shorts, white trainers. Athletic gym wear.
+  Text overlay: NO typography overlay.
+
+lifestyle-red-dress-window-Daiu5Cpo4F_.jpg
+  Suggested use: lifestyle / about (intro carousel)
+  Source: https://www.instagram.com/p/Daiu8nWiAZ0/ child Daiu5Cpo4F_, posted 8 Jul 2026 (intro: “Hi, I’m Ana!”)
+  Dimensions: 1080 × 1440 px, JPEG, portrait 3:4
+  What it shows: Ana in a red strapless evening dress by a large arched window looking out to sea, golden light and chairs.
+  Text overlay: NO typography overlay.
+  Notes: The same intro carousel includes a family group shot (not used) and a bikini waterfall shot (skipped as revealing).
+
+lifestyle-london-tube-DfFwzeulZdG.jpg
+  Suggested use: lifestyle
+  Source: https://www.instagram.com/p/DfFwzeulZdG/ (carousel slide 1 / parent), posted 29 Oct 2026 (“Life lately… London trips”)
+  Dimensions: 1080 × 1440 px, JPEG, portrait 3:4
+  What it shows: Ana sat on a London Underground train, brown jacket and jeans, holding her phone. Background ads are in the carriage, not typography she added.
+  Text overlay: NO typography overlay.
+
+lifestyle-gym-flex-partner-Dalu6ryoa7v.jpg
+  Suggested use: lifestyle / gym / social
+  Source: https://www.instagram.com/p/Dalu6ryoa7v/, a single photo post (caption not available from yt-dlp; Jack labelled it “gym photo”)
+  Dimensions: 1080 × 1440 px, JPEG, portrait 3:4
+  What it shows: Mirror selfie in a dark gym with cyan LED wall lights; Ana in a white sports bra and light-pink shorts, a training partner in black flexes beside her. Same scene as the earlier TikTok still, but this is the Instagram original at higher resolution.
+  Text overlay: NO typography overlay.
+
+lifestyle-running-race-bib-DauxaK9iP48.jpg
+  Suggested use: lifestyle / run club
+  Source: https://www.instagram.com/p/DauxaK9iP48/ (carousel slide 1 / parent), posted 13 Jul 2026 (“RUN CLUB IS HERE!”)
+  Dimensions: 1080 × 1440 px, JPEG, portrait 3:4
+  What it shows: Point-of-view of Ana’s pink race bib printed “ANA” and “14426”, pink shorts, other runners’ legs on grass beside a barrier. The bib is physical, not a graphic overlay.
+  Text overlay: NO typography overlay.
+  Notes: Used in a Run Club announcement post; it looks like a race/event photo rather than the weekly Snap Fitness run itself. A designed “snap fitness 24/7 run club” graphic in the same carousel was skipped (typography).
+
+lifestyle-dog-walk-DfFwx8sKHNr.jpg
+  Suggested use: lifestyle
+  Source: https://www.instagram.com/p/DfFwzeulZdG/ child DfFwx8sKHNr, posted 29 Oct 2026
+  Dimensions: 1080 × 1440 px, JPEG, portrait 3:4
+  What it shows: A wet black Labrador on a countryside path, looking up, “BLACK” collar tag visible.
+  Text overlay: NO typography overlay.
+
+lifestyle-breakfast-bowl-DegnPk6oc9Z.jpg
+  Suggested use: lifestyle
+  Source: https://www.instagram.com/p/DegnRtziKjv/ child DegnPk6oc9Z, posted 15 Oct 2026
+  Dimensions: 1080 × 1440 px, JPEG, portrait 3:4
+  What it shows: Yoghurt bowl with berries, granola and honey on a white duvet, spoon in the bowl.
+  Text overlay: NO typography overlay.
+
+lifestyle-coffee-Dd_DFzxIESJ.jpg
+  Suggested use: lifestyle
+  Source: https://www.instagram.com/p/Dd_DObQiK9z/ child Dd_DFzxIESJ, posted 2 Oct 2026
+  Dimensions: 1080 × 1440 px, JPEG, portrait 3:4
+  What it shows: Overhead latte with heart art in a white cup on a wooden table.
+  Text overlay: NO typography overlay.
+
+training-classes-group-selfie-DcT_ThiiGc9.jpg
+  Suggested use: training / classes / about
+  Source: https://www.instagram.com/p/DcT_ThiiGc9/ (carousel slide 1 / parent), posted 21 Aug 2026
+          Caption: passed Circuits & Kettlebells qualifications; now teaching classes; tags @smart_fitness_classes
+  Dimensions: 1080 × 810 px, JPEG, landscape (original is landscape, left uncropped)
+  What it shows: Ana in a red hoodie taking a group selfie with seven class participants in a wood-floored studio. Wall typography in the room (“DANCE like nobody’s watching…”) is painted décor, not a caption she overlaid.
+  Text overlay: NO typography overlay.
+
+training-classes-studio-DcT_BCboFRR.jpg
+  Suggested use: training / classes / gym-location
+  Source: https://www.instagram.com/p/DcT_ThiiGc9/ child DcT_BCboFRR, posted 21 Aug 2026
+  Dimensions: 1080 × 810 px, JPEG, landscape (original is landscape, left uncropped)
+  What it shows: The same studio set up for a class — mats, dumbbells, kettlebells, a Reebok step, one participant at the right edge.
+  Text overlay: NO typography overlay.
+
+training-group-class-turf-DegnQLSItoR.jpg
+  Suggested use: training / action / gym
+  Source: https://www.instagram.com/p/DegnRtziKjv/ child DegnQLSItoR, posted 15 Oct 2026
+  Dimensions: 1080 × 1440 px, JPEG, portrait 3:4
+  What it shows: A group stretching on a marked green turf area in a gym, punching bag and kit in the background. Location is not labelled in the caption (do not assume Snap Fitness).
+  Text overlay: NO typography overlay.
+
+action-back-day-face-pull-DaivqSYCNen.jpg
+  Suggested use: action / training
+  Source: https://www.instagram.com/p/DaivqSYCNen/ (carousel slide 1 / parent), posted 8 Jul 2026 (“Back day is one of my favourites… #snapfitness247”)
+  Dimensions: 720 × 960 px, JPEG, portrait 3:4 (as Instagram delivered this slide)
+  What it shows: Ana from behind on the floor doing a rope face-pull, Snap Fitness-style red mural in the background.
+  Text overlay: NO typography overlay.
+
+gym-snap-fitness-red-wall-Da_Sbs8o2Hd.jpg
+  Suggested use: gym / lifestyle
+  Source: https://www.instagram.com/p/Da_S2fACIPI/ child Da_Sbs8o2Hd, posted 19 Jul 2026
+  Dimensions: 1080 × 1440 px, JPEG, portrait 3:4
+  What it shows: Ana (peace sign) standing with a man in a black “snap 24/7 fitness” Adidas shirt against a solid red wall.
+  Text overlay: NO typography overlay.
+
+gym-pilates-revive-reform-Dd_DFq8ovyK.jpg
+  Suggested use: gym / lifestyle location — not established as her workplace
+  Source: https://www.instagram.com/p/Dd_DObQiK9z/ child Dd_DFq8ovyK, posted 2 Oct 2026 (lifestyle “Wales…” carousel)
+  Dimensions: 1080 × 1440 px, JPEG, portrait 3:4
+  What it shows: A reformer-pilates studio with arched mirrors; reversed lettering on the glass reads Revive & Reform (R&R). Reformers in the room, a person in a mirror.
+  Text overlay: NO typography overlay.
+  Notes: Matches the “revive&reform” typography on an earlier TikTok. Do not list it as a place she coaches unless she confirms it; this appears in a personal “life recently” dump.
+
+gym-rack-jd-gyms-DegnPlCobLB.jpg
+  Suggested use: gym / equipment — not her published PT location
+  Source: https://www.instagram.com/p/DegnRtziKjv/ child DegnPlCobLB, posted 15 Oct 2026
+  Dimensions: 1080 × 1440 px, JPEG, portrait 3:4
+  What it shows: A black Eleiko squat rack with a “JD GYMS” sign, plywood wall, bumper plates. Clean, no typography overlay.
+  Text overlay: NO typography overlay.
+  Notes: JD Gyms is visible on the rack. Her published PT location is Snap Fitness Spalding; do not treat JD Gyms as her studio.
 
 ================================================================
-brand/  (not for use as a designed logo)
+brand/
 ================================================================
+
+ana-norman-business-cards.jpg
+  Suggested use: logo / brand reference (photograph of her printed cards, not a vector logo file)
+  Source: https://www.instagram.com/p/Da_S2fACIPI/ child Da_SbMII-Nl, posted 19 Jul 2026
+  Dimensions: 1080 × 1440 px, JPEG
+  What it shows: A scattered pile of cream business cards. Front: custom “AN” monogram with a dumbbell between the letters, “ANA NORMAN” / “PERSONAL TRAINER”. Also visible: “REAL TRAINING. REAL RESULTS.”, Instagram @TRAINEDBYANA, phone 07947 937427, and a services list (1:1 personal training, small group training, nutrition guidance, tailored programmes, accountability & support; “LET’S BUILD YOUR STRONGEST SELF.”).
+  Text overlay: the type is printed on the cards themselves (her brand identity), not a caption over a photograph.
+  Notes: Warm indoor lighting; cream and terracotta will not match a studio swatch exactly.
 
 linktree-profile-avatar.jpg
-  Suggested use: official profile picture only, if Jack/Ana are happy with it. Not a logo. Probably unsuitable as a site hero without her say-so.
-  Source: Official Linktree avatar on https://linktr.ee/trainedbyana
-          (same image as the TikTok profile avatar, which TikTok serves as a 1080×1080 centre crop).
-  Dimensions: 2000 × 2000 px, JPEG, square (Linktree’s crop of a selfie — not an uncropped original photograph).
-  What it shows: Close-up selfie of Ana, blonde hair, nose ring, black “AYBL” sports bra, sunburst tattoo on her right upper arm, indoor background.
-  Text overlay: NO typography overlay. The word “AYBL” is garment branding (another company), upside-down in the selfie, not a graphic she designed.
-  Notes: Tight sports-bra crop with a lot of cleavage — flag as possibly too revealing for a business website. “AYBL” is not her logo. No designed wordmark was found.
+  Official Linktree / TikTok profile selfie, 2000 × 2000 square crop. NO typography overlay (AYBL is garment branding). Possibly too revealing for a site hero — prefer the new about-me portraits above.
 
 ================================================================
-videos/  (included here so the typography flags sit with the media list)
+videos/
 ================================================================
 
 training-session.mp4
-  Suggested use: site training-session / coaching reel.
-  Source: TikTok https://www.tiktok.com/@trainedbyana/video/7663247108916432150
-          Posted 16 Jul 2026, 21:52 Europe/London. Caption (verbatim): “She will thank me one day x #gym #fyp #fitnesstok”
-          NOT an Instagram Reel — Instagram was not readable anonymously.
-  Duration: 46.10 s. Resolution: 576 × 1024. Codec: H.264 + AAC (44.1 kHz stereo), official TikTok mp4, not re-encoded.
-          A higher-bitrate official H.264 sibling (format h264_540p_939987, ~5.4 MB) was listed but a later fetch returned 403 / IP block; this file is the official h264_540p_505060 encode already downloaded (2,910,411 bytes).
-  What it shows: A client / training partner (brown hair, light-blue shorts and white sports bra) working a machine; Ana (black outfit) coaches, spots and films. Gym floor with green neon lettering (reads along the lines of “FITNESS IS SERIOUS”).
-  Text overlay: HAS typography overlay — burned-in speech captions at several points, including “WHAT?”, “OH, MY GOD.”, “OKAY.”, “STRONG, STRONG. THREE.”, “BREATHE OUT.”, “LAST ONE. LAST”.
-  Audio: TikTok lists the sound as “original sound - Ibiza Records” (music). Spoken coaching cues are also present (reflected in the captions).
-  Client session: YES — Ana is visibly coaching another woman (captioned “She will thank me one day x”).
+  Suggested use: site training-session / coaching reel
+  Source: Instagram Reel https://www.instagram.com/reel/Dcaqfr8o5o7/ posted 24 Aug 2026
+          Caption (verbatim start): “Attempting to PT my most unserious client and best friend… @niamhcollett 😂”
+  Duration: 90.95 s. Resolution: 720 × 1280. Codec: H.264 + AAC, official Instagram progressive format 3, not re-encoded (10,781,362 bytes).
+  What it shows: Ana coaching her client/best friend Niamh through face pulls on a cable stack (setup, elbow position, control), with a lot of laughter.
+  Text overlay: HAS typography overlay — burned-in speech captions through most of the reel (“PUT IT DOWN FOR YOU.”, “HAVE YOUR FEET HIP”, “PENCIL ON YOUR SPINE,”, “KEEPING YOUR SHOULDERS DOWN.”, etc.).
+  Audio: spoken coaching plus laughter (AAC).
+  Client session: YES (@niamhcollett).
+  Fallbacks checked (also caption-heavy; not saved): DcUEwtRoSgh (43.35 s, 720×1280 H.264) — Bulgarian split-squat walkthrough where Ana is the lifter and Toby (@ht_training_95) coaches her; DcUJ6uPI3ej (13.21 s, 720×1280 H.264) — her own face-pulls with persistent “How I used to / What I changed” graphics.
 
-training-session-runner-up.mp4
-  Suggested use: runner-up only. Included because mid-sections have less typography than the primary reel, and it shows a shared leg-day session.
-  Source: TikTok https://www.tiktok.com/@trainedbyana/video/7660644849049242902
-          Posted 9 Jul 2026, 21:34 Europe/London. Caption (verbatim): “Little video from some of our exercises on today’s leg day 🍑🏋️‍♂️  #gym #fitnes #snapfitness #fyp”
-          NOT an Instagram Reel.
-  Duration: 59.57 s. Resolution: 576 × 1024. Codec: H.264 + AAC (44.1 kHz stereo), official higher-bitrate TikTok H.264 encode (h264_540p_576721, 4,294,199 bytes), not re-encoded.
-  What it shows: Ana (pink set) and the same training partner (black outfit) doing a leg-day session — hip-thrust machine, goblet squats, walking lunges — in a dark studio/gym room with cyan and orange LED strips (same room as the still above). #snapfitness is in the caption.
-  Text overlay: HAS typography overlay, but not on every shot. Burned-in captions include “TODAY WE'RE TRAINING”, “ENJOY THAT.”, and “MY LEG! TALK” (wording as shown on screen). Several squat/lunge stretches have no typography.
-  Audio: TikTok lists “original sound - trainedbyana”.
-  Client session: Mixed / not certain. They train together (“our exercises”); Ana is not as clearly in a “coach standing over a client” role as in the primary reel. The other woman may be a client, a friend, or both.
+training-session-tiktok.mp4
+  Previous pack reel, kept for reference. TikTok https://www.tiktok.com/@trainedbyana/video/7663247108916432150 (16 Jul 2026), 46.10 s, 576 × 1024, H.264 + AAC. Ana coaching a client/partner; HAS burned-in speech captions. Not an Instagram Reel.
 
-Other TikTok videos inspected but not saved (for Jack’s awareness; many have typography; all are TikTok, not Instagram):
-  7698773477792238880 (20 Oct 2026, 61s) — “Monday morning pilates at revive&reform” typography; reformer-pilates room; hashtags include #PersonalTrainer #OnlineCoaching. Not used as the training reel (class-style footage + overlay; studio not independently confirmed).
-  7691993752356916513 (2 Oct 2026, 16s) — heavy typography “HIP THRUSTS AREN’T JUST FOR GLUTE GROWTH”; caption invites DMs for online coaching.
-  7691993406431661345 (2 Oct 2026, 17s) — typography “POV the gym is empty so we can try the weird exercise we found on ig”.
-  7677551378251697430 (24 Aug 2026, 10s) — countryside path + dog; typography about a Dfyne set.
-  7677550186020736279 (24 Aug 2026, 25s, landscape 1280×720 native) — typography “POV you’re eating a protein bar”.
-  7676406411777101078 (21 Aug 2026, 9s) — typography meme quotes about needing clients / content.
-  7665073429380451606 (21 Jul 2026, 8s) — Ana at a red-and-white gym reception desk (Snap Fitness-style branding). Short lifestyle clip, not a training session; only a 540×960 cover was kept in working files, not this pack.
-  7664022918183095574 (19 Jul 2026, 64s) — two people on a cable stack; typography including “WE ARE DOING” / “HANDS I BEAT YOU”.
-  7661988336499690774 (13 Jul 2026, 57s) — typography “IF YOU’RE NOT” / “TRAINING…” throughout.
-  7660819931902004502 (10 Jul 2026, 68s) — own/partner gym training; typography including “RIP OFF WALK”.
+================================================================
+Inspected and not used in photos/ (for Jack’s awareness)
+================================================================
+
+Typography / quote graphics (skipped under the no-overlay rule): Dd8-Sy4iAB2 (online coaching CTA selfie); Det5fi4iDGQ (client Q&A slides + overlaid bikini cover); DeupSecFQIK (advice graphics); DcUD_jZCITL (food + captions); DczKYpkIGxQ (body + quote); DcVwSZMiAF7 (personal-history portraits, both overlaid — a nice street portrait sits underneath); Da5hOk0iLA2 (“Why choose me as your PT” carousel, includes Snap Fitness / free-first-session copy); DalqpfGCH0A (Gym Myths); DegnRtziKjv parent/coat selfie (“Winter arc otw”); DauxaK9iP48 designed “run club” graphic; DczJFLBCMTx slide with a run-stats overlay.
+
+Identified child photos: all of DfSWTjRiNQx — not used.
+
+Revealing/bikini: Daiu5TVqhQE (waterfall) and typography covers that reuse it — not used.
+
+Low-res or video-cover-like slides (often 540×720 / 720×960) were used only when they were clearly the original still of that slide (close-up selfie, back-day) or skipped (run-club video still 720×404, deadlift cover, etc.).

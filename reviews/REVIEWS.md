@@ -1,14 +1,21 @@
 # Reviews / testimonials — Trained by Ana / Ana Norman
 
-Gathered 13 Nov 2026 (Europe/London). **No reviews or testimonials were found. Do not invent any.**
+Gathered 13 Nov 2026 (Europe/London). Transcripts are verbatim from first-party sources. Do not invent additional reviews, names, or results.
 
-Checked, with nothing usable:
+## Instagram highlight “Client reviews🌷”
 
-- Instagram @trainedbyana could not be opened anonymously (login wall / “page isn’t available”). Story highlights could not be listed or opened, so no highlight titled “reviews”, “results”, or similar was verified.
-- https://linktr.ee/trainedbyana — no testimonial block.
-- https://calendly.com/anambnorman and the only live event, “FREE first session” — no reviews.
-- TikTok @trainedbyana (13 public videos). Captions do not contain client testimonials. A few videos have 1–3 comments; comment text was not reliably available from the public web view (login modal) and was not used. Do not scrape or invent comments as site reviews.
-- No first-party website (trainedbyana.com / .co.uk / trained-by-ana.com / trainedbyana.uk are all NXDOMAIN).
-- No Google Business Profile, Trustpilot page, or other first-party review listing was identified for this Ana Norman / Trained by Ana / Snap Fitness Spalding PT.
+A single highlight frame with four client messages and no names. Attribute each as **Client (anonymous, IG highlight)**.
 
-If Ana or Jack later supplies written testimonials, paste them here verbatim with the source.
+1. “Been having a really good week with food too. I've stopped feeling like I have to be 'perfect' all the time and I think that's actually helped me stay on track so much more. xx”
+
+2. “Felt super more comfortable in an old outfit today, lol. Its the little wins isnt it 😅”
+
+3. “Can't believe how much stronger im feeling ah! Went back to an exercise i didnt like before and managed to do it so much easier this time 😻 deffo starting to see progress now x”
+
+4. “Had such a good session today!! Increased the weight on my RDLs and managed all my reps 🥺 never thought I'd be getting excited over gym numbers hahaha xx”
+
+## Other first-party client feedback (not used as site photos)
+
+On 20 Oct 2026 Ana posted a carousel, https://www.instagram.com/p/Det5fi4iDGQ/, captioned “This is why I do what I do”, made of designed pink Q&A slides headed “Feedback from one of my lovely clients”. Those slides were skipped for `photos/` because they are typography graphics (and the cover reuses a bikini holiday photo with overlaid text). They were not re-transcribed here; use the highlight messages above as the verbatim review set unless Jack later supplies a full transcription of that carousel.
+
+No Google, Trustpilot, or named written testimonials were found.
